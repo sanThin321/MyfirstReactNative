@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+nativewind-env.d.ts
+babel.config.js
+tailwind.config.js
 
 # Native
 *.orig.*
